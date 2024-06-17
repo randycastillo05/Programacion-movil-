@@ -4,7 +4,7 @@ const clientes = [
       nombre: "Alfredo Mota",
       direccion: "Calle santa #3",
       telefono: "829-634-5678",
-      correo: "motaCasador@email.com",
+      correo: "motaCasador@gmail.com",
       servicios: [
         {
           nombre: "Disney",
@@ -17,7 +17,7 @@ const clientes = [
       nombre: "Esperanza Gomez",
       direccion: "Avenida 400",
       telefono: "809-631-6582",
-      correo: "gonzalez@email.com",
+      correo: "gonzalez@gmail.com",
       servicios: [
         {
           nombre: "Netflix",
@@ -31,7 +31,7 @@ const clientes = [
         nombre: "Alejandro Martines",
         direccion: "stg este #15",
         telefono: "849-661-6587",
-        correo: "lilmartines@email.com",
+        correo: "lilmartines@gmail.com",
         servicios: [
           {
             nombre: "PRIME",
@@ -48,7 +48,7 @@ const clientes = [
         nombre: "Armando Ramires",
         direccion: "vista catalina c#4",
         telefono: "829-081-7058",
-        correo: "Ramires87@email.com",
+        correo: "Ramires87@gmail.com",
         servicios: [
           {
             nombre: "NBA PASS",
@@ -61,7 +61,7 @@ const clientes = [
         nombre: "Randy Castillo",
         direccion: "Villa Hermosa",
         telefono: "809-550-8455",
-        correo: "randycas@email.com",
+        correo: "randycas@gmail.com",
         servicios: [
           {
             nombre: "NETFLIX",
